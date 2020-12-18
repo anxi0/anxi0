@@ -1,12 +1,11 @@
-### Hi there 👋
+# Hi there 👋 Welcom!
 
 <!--
-**anxi0/anxi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Choi-YeonJin/Choi-YeonJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
-<JavaScript>
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anxi0&show_icons=true)](#)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)-->
+  
+### 🔭 I’m currently working on ...
+## JavaScript
+# React.js, React-Native, Python etc...
+
+### 🌱 I’m currently learning ...
+- Node js
+- TypeScript
+
+
+#### 💬 Ask me about
+- [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjw01040@gamil.com)](mailto:jjw0104@gmail.com)
