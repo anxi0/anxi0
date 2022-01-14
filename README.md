@@ -1,4 +1,7 @@
-# Hi there 👋 Welcom!
+# Anxious Programmer, anxi0
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anxi0&show_icons=true)](#)
 
