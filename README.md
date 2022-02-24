@@ -9,11 +9,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)-->
   
 ### 🔭 I’m currently working on ...
-- JavaScript
-- React.js, React-Native, Python etc...
+- JavaScript habitat(React, React-Native, Express)
 
 ### 🌱 I’m currently learning ...
-- Node js
+- Express
+- State management libraries
 - TypeScript
 
 
