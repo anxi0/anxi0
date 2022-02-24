@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![anxi0's github stats](https://github-readme-stats.vercel.app/api?username=anxi0&show_icons=true)](#)
+[![anxi0's github stats](https://github-readme-stats.vercel.app/api?username=anxi0&show_icons=true&theme=radical)](#)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)-->
