@@ -11,10 +11,9 @@
 ### 🔭 I’m currently working on ...
 - JavaScript habitat(React, React-Native, Express)
 
-### 🌱 I’m currently learning ...
-- Express
-- State management libraries
-- TypeScript
+### 🌱 I’m currently learning ... (2023)
+- Nest.js
+- AWS Lambda
 
 ### Waka time
 [![wakatime](https://wakatime.com/badge/user/d89a9cfe-a47a-4732-8834-7a43d1cf4b73.svg)](https://wakatime.com/@d89a9cfe-a47a-4732-8834-7a43d1cf4b73)
