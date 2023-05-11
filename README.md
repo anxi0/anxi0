@@ -11,10 +11,9 @@
   
 ### 🔭 I’m currently working on ...
 - JavaScript ecosystem(React, React-Native, Express)
-- Modern Android Development using Kotlin(Hilt, Coroutine, Jetpack lib)
 - Spring Web Backend Development
 
-### 🌱 I’m currently learning ... (2023)
+### 🌱 I’m currently Studying ... (2023)
 - MSA using AWS
 - Other language system's Back-end Framework
 
