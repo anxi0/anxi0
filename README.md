@@ -1,24 +1,37 @@
-# Anxious Programmer, anxi0
+# Junwon Jang · 장준원
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**Development PM / Technical Product Lead** — still hands-on on production systems.
 
-[![anxi0's github stats](https://github-readme-stats.vercel.app/api?username=anxi0&show_icons=true&theme=radical)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxi0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Since 2020, I've launched and scaled digital products in startups, from real-time streaming to digital health. Today I lead delivery at **SleepForest** (intelligent sleep management platform): backend architecture, AWS operations, vendor coordination, and releases that actually ship.
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-YeonJin&layout=compact)](#)-->
-  
-### 🔭 I’m currently working on ...
-- JavaScript ecosystem(React, React-Native, Express)
-- Spring Web Backend Development
+I define problems with product and data, turn messy requirements into executable plans, and stay in the codebase with **TypeScript**, **NestJS**, **PostgreSQL**, and **AWS**.
 
-### 🌱 I’m currently Studying ... (2023)
-- MSA using AWS
-- Other language system's Back-end Framework
+---
 
-### Waka time
+### What I focus on now
+
+- **Platform & infra** — HTTPS, domains, CI/CD, monitoring, incident response, and cost-aware AWS operations  
+- **Vendor & delivery PM** — RFP scope, acceptance criteria, review, and release through to production  
+- **Hands-on engineering** — APIs, admin/B2B tooling, and the systems that support sleep data, coaching, and routines  
+
+---
+
+### Stack I work with
+
+`TypeScript` · `NestJS` · `PostgreSQL` · `Redis` · `AWS` (EC2, S3, RDS, Lambda, CloudFront) · `Docker` · `CI/CD` · `Jira` · `Notion`
+
+---
+
+### Coding activity
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxi0&layout=compact&theme=radical)](https://github.com/anxi0)
+
 [![wakatime](https://wakatime.com/badge/user/d89a9cfe-a47a-4732-8834-7a43d1cf4b73.svg)](https://wakatime.com/@d89a9cfe-a47a-4732-8834-7a43d1cf4b73)
 
-#### 💬 Contact
-- [![Gamil Badge](http://img.shields.io/badge/-Gmail-informational?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjw01040@gamil.com)](mailto:jjw0104@gmail.com)
+---
+
+### Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-jjw0104@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jjw0104@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
+[![Blog](https://img.shields.io/badge/Blog-Read-000000?style=flat&logo=readthedocs&logoColor=white)](https://YOUR_BLOG_URL)
