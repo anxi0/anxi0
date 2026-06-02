@@ -34,4 +34,4 @@ I define problems with product and data, turn messy requirements into executable
 
 [![Gmail](https://img.shields.io/badge/Gmail-jjw0104@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jjw0104@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junwon-jang-03133021a)
-[![Blog](https://img.shields.io/badge/Blog-Read-000000?style=flat&logo=readthedocs&logoColor=white)](https://https://anxi0.tistory.com/category)
+[![Blog](https://img.shields.io/badge/Blog-Read-000000?style=flat&logo=readthedocs&logoColor=white)](https://anxi0.tistory.com/category)
